@@ -1,4 +1,4 @@
-package com.hcl.ecommercebillingsystem.service;
+package com.hcl.ecommercebillingsystem.service.base;
 
 
 import com.hcl.ecommercebillingsystem.entity.BaseObject;
